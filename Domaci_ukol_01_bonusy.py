@@ -116,3 +116,4 @@ print(f"Calculated total tax: {tax_report.calculate_tax()}")
 # Assertion to check correctness
 assert tax_report.calculate_tax() == expected_total_tax, "Tax calculation is incorrect!"
 print("✅ Tax calculation works correctly!")
+

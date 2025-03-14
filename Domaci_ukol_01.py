@@ -49,3 +49,4 @@ print("Calculated tax:", residence_test.calculate_tax())
 
 
 
+
